@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Игорь Лавринов](https://up.htmlacademy.ru/javascript/20/user/614545).
-* Наставник: `Неизвестно`.
+* Наставник: Сам себе наставник.
 
 ---
 
